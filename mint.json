@@ -33,19 +33,19 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Satu UNRI",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://satu.unri.ac.id"
     },
     {
-      "name": "Community",
+      "name": "Helpdesk UNRI",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://helpdesk.unri.ac.id"
     },
     {
-      "name": "Blog",
+      "name": "Web UNRI",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://unri.ac.id"
     }
   ],
   "navigation": [
