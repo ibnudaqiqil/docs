@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Satu Unri",
   "logo": {
-    "dark": "/logo/logo-new.png",
-    "light": "/logo/logo-new.png"
+    "dark": "https://satu.unri.ac.id/assets/img/logo-new.png",
+    "light": "https://satu.unri.ac.id/assets/img/logo-new.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
